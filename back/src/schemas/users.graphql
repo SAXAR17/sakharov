@@ -1,0 +1,9 @@
+type User {
+    phone: String
+    message: String
+}
+
+input UserInput {
+    phone: String!
+    message: String
+}
